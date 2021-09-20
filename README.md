@@ -13,9 +13,10 @@ My submission for part 3 can be found [here](https://github.com/freeman-jiang/FS
 
 ## Screenshots
 ### Part 1
-![Screenshot 2021-09-19 220418](https://user-images.githubusercontent.com/56516912/133952402-4c884a09-53cb-429d-a77e-2578cdffb0fa.png)
+![Screenshot 2021-09-19 223747](https://user-images.githubusercontent.com/56516912/133952766-1957806a-01bf-42bc-9455-0e0b9ed05933.png)
 (Learned React hooks, state management, components, event handlers, conditional rendering, debugging)
 
 ### Part 2
-![Screenshot (22)](https://user-images.githubusercontent.com/56516912/133952694-e9a59312-92ea-4216-a4ff-678aa4ec559a.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/56516912/133952920-96364a05-fa43-48c2-843e-47f3821d3871.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/56516912/133952921-fa97b4a8-36a8-4f28-9d22-eb7c61041dfe.png)
 (Learned props, controlled components, collection rendering, module refactoring, APIs, HTTP requests with Axios)
