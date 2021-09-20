@@ -20,6 +20,9 @@ My submission for part 3 can be found [here](https://github.com/freeman-jiang/FS
 ### Part 2
 (Learned props, controlled components, collection rendering, module refactoring, APIs, HTTP requests with Axios)
 
-Canada          |  Korea
+Canada          |  United Kingdom
 :-------------------------:|:-------------------------:
-![Screenshot (24)](https://user-images.githubusercontent.com/56516912/133952920-96364a05-fa43-48c2-843e-47f3821d3871.png)  | ![Screenshot (25)](https://user-images.githubusercontent.com/56516912/133952921-fa97b4a8-36a8-4f28-9d22-eb7c61041dfe.png)
+![Screenshot 2021-09-19 225738](https://user-images.githubusercontent.com/56516912/133953204-4b47e862-c403-4434-8457-da64aea32dbb.png)  | ![Screenshot 2021-09-19 225819](https://user-images.githubusercontent.com/56516912/133953202-978fcdcb-aef2-4a9e-a2bc-066aaf807764.png)
+
+
+
