@@ -13,11 +13,13 @@ My submission for part 3 can be found [here](https://github.com/freeman-jiang/FS
 
 ## Screenshots
 ### Part 1
-![Screenshot 2021-09-19 223747](https://user-images.githubusercontent.com/56516912/133952766-1957806a-01bf-42bc-9455-0e0b9ed05933.png)
 (Learned React hooks, state management, components, event handlers, conditional rendering, debugging)
+![Screenshot 2021-09-19 223747](https://user-images.githubusercontent.com/56516912/133952766-1957806a-01bf-42bc-9455-0e0b9ed05933.png)
+
 
 ### Part 2
-Solarized dark             |  Solarized Ocean
+(Learned props, controlled components, collection rendering, module refactoring, APIs, HTTP requests with Axios)
+             | 
 :-------------------------:|:-------------------------:
 ![Screenshot (24)](https://user-images.githubusercontent.com/56516912/133952920-96364a05-fa43-48c2-843e-47f3821d3871.png) |  ![Screenshot (25)](https://user-images.githubusercontent.com/56516912/133952921-fa97b4a8-36a8-4f28-9d22-eb7c61041dfe.png)
-(Learned props, controlled components, collection rendering, module refactoring, APIs, HTTP requests with Axios)
+
