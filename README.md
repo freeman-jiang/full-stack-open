@@ -10,3 +10,12 @@ The course is worth 5-12 credits, and the content is the same as in the Full sta
 
 ## More
 My submission for part 3 can be found [here](https://github.com/freeman-jiang/FSO-part-3)
+
+## Screenshots
+### Part 1
+![Screenshot 2021-09-19 220418](https://user-images.githubusercontent.com/56516912/133952402-4c884a09-53cb-429d-a77e-2578cdffb0fa.png)
+(Learned React hooks, state management, components, event handlers, conditional rendering, debugging)
+
+### Part 2
+![Screenshot (22)](https://user-images.githubusercontent.com/56516912/133952694-e9a59312-92ea-4216-a4ff-678aa4ec559a.png)
+(Learned props, controlled components, collection rendering, module refactoring, APIs, HTTP requests with Axios)
